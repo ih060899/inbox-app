@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Astra Secure-connect.zip ###
+secure-connect.zip
