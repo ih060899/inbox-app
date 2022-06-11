@@ -22,4 +22,5 @@ public class InboxAppApplication {
 		return principal.getAttribute("name");
 	}
 
+
 }
